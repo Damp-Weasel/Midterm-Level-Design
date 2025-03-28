@@ -1521,7 +1521,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 6edb5fd0789ad36498cb03434379376c, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 47.48
+      value: 47.12
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 6edb5fd0789ad36498cb03434379376c, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1559,9 +1559,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 355302395073099518, guid: 6edb5fd0789ad36498cb03434379376c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.75
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6edb5fd0789ad36498cb03434379376c, type: 3}
       propertyPath: m_Name
       value: Helicopter Low Poly Model
+      objectReference: {fileID: 0}
+    - target: {fileID: 1572452237337188096, guid: 6edb5fd0789ad36498cb03434379376c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.055691
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6852,6 +6860,63 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 409754, guid: 60d3688bc6832bf45ac9ea2bf1c8ab03, type: 3}
   m_PrefabInstance: {fileID: 1308166168}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1315314468
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 77f867c785a033f4982e15a95643b6b9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 44.48
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 77f867c785a033f4982e15a95643b6b9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 28.992
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 77f867c785a033f4982e15a95643b6b9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 45.77
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 77f867c785a033f4982e15a95643b6b9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 77f867c785a033f4982e15a95643b6b9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 77f867c785a033f4982e15a95643b6b9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 77f867c785a033f4982e15a95643b6b9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 77f867c785a033f4982e15a95643b6b9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 77f867c785a033f4982e15a95643b6b9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 77f867c785a033f4982e15a95643b6b9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 77f867c785a033f4982e15a95643b6b9, type: 3}
+      propertyPath: m_Name
+      value: Bombdropoff Low Poly Model2
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 77f867c785a033f4982e15a95643b6b9, type: 3}
 --- !u!1001 &1324553640
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9297,19 +9362,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a0ac5654fb853f24e861fabef46b189c, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 64.02
+      value: 44.48
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a0ac5654fb853f24e861fabef46b189c, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 30.03
+      value: 28.9
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a0ac5654fb853f24e861fabef46b189c, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 39.96
+      value: 47.98
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a0ac5654fb853f24e861fabef46b189c, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.7071068
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a0ac5654fb853f24e861fabef46b189c, type: 3}
       propertyPath: m_LocalRotation.x
@@ -9317,7 +9382,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a0ac5654fb853f24e861fabef46b189c, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0.7071068
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a0ac5654fb853f24e861fabef46b189c, type: 3}
       propertyPath: m_LocalRotation.z
@@ -9329,7 +9394,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a0ac5654fb853f24e861fabef46b189c, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
+      value: -90
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a0ac5654fb853f24e861fabef46b189c, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -11521,6 +11586,9 @@ SceneRoots:
   m_Roots:
   - {fileID: 410087041}
   - {fileID: 832575519}
+  - {fileID: 548191888}
+  - {fileID: 2024597903}
+  - {fileID: 307124264}
   - {fileID: 469289756}
   - {fileID: 767742324}
   - {fileID: 7195706454955281411}
@@ -11533,6 +11601,4 @@ SceneRoots:
   - {fileID: 1574263307}
   - {fileID: 897427038}
   - {fileID: 1715685237}
-  - {fileID: 548191888}
-  - {fileID: 2024597903}
-  - {fileID: 307124264}
+  - {fileID: 1315314468}
